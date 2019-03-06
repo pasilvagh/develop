@@ -1,3 +1,8 @@
+#postgresql
+#https://linuxconfig.org/install-postgresql-on-ubuntu-18-04-bionic-beaver
+#https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04
+#https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e
+
 # Differences between Angular versions
 Angular7 to 2, incremental improvements
 
